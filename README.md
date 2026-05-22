@@ -2,6 +2,8 @@
 
 Successfully developed an end-to-end Machine Learning project that implements a content-based movie recommendation system. This project demonstrates the full lifecycle of building a data driven application, from raw data processing to the deployment of a production-ready web service.
 
+Deployed URL - <https://movie-recommendation-system-yuvraj.streamlit.app/>
+
 ## Project Overview
 
 This application recommends movies by analyzing their metadata—specifically titles, overviews, genres, and taglines. By leveraging Natural Language Processing (NLP), the system converts these textual attributes into numerical representations to calculate similarity between films.
